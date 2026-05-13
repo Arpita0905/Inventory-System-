@@ -1,0 +1,22 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+npm-debug.log
+
+# Python
+backend/__pycache__/
+backend/venv/
+backend/.env
+*.pyc
+
+# Database
+# If you want to keep the data you pushed initially, uncomment the line below. 
+# backend/inventory.db
+
+# Huge Datasets (DO NOT UPLOAD 95MB+ CSV files to Github!)
+backend/data/*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
