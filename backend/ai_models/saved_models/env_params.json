@@ -1,0 +1,12 @@
+{
+  "max_stock": 1000,
+  "max_order": 500,
+  "num_actions": 25,
+  "holding_cost": 5.41,
+  "shortage_cost": 27.05,
+  "ordering_cost": 145.24,
+  "mean_demand": 46.3,
+  "demand_std": 15.4,
+  "lead_time_mean": 3.6,
+  "lead_time_std": 1.5
+}
